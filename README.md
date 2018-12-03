@@ -1,7 +1,7 @@
 # Project 1
 
 ![python](https://img.shields.io/badge/python-3.7-blue.svg)
-![status](https://img.shields.io/badge/status-in%20progress-yellow.svg)
+![status](https://img.shields.io/badge/status-complete-brightgreen.svg)
 ![license](https://img.shields.io/badge/license-MIT-green.svg)
 
 This is the first project for the Machine Learning class.
