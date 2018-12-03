@@ -40,14 +40,14 @@ python main.py
 ## Project Structure
 
     .
-    ├── src                               # Source code files
+    ├── src                          # Source code files
     |   ├── main.py
     |   ├── kcm_fgh.py
     |   ├── config_helper.py
     |   ├── io_helper.py 
     |   └── metrics_helper.py
-    ├── data                               # Dataset file
-    ├── results                            # Experiment results
+    ├── data                         # Dataset file
+    ├── results                      # Experiment results
     ├── LICENSE.md
     └── README.md
 
